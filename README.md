@@ -46,9 +46,3 @@ Este case demonstra a eficácia do Scrum em startups, mesmo com recursos limitad
 ## Chamada para Ação
 
 Se você busca um profissional com experiência em Scrum e paixão por desenvolver produtos inovadores, entre em contato!
-
-## Contato
-
-[Seu LinkedIn](https://www.linkedin.com/in/seu-perfil/)
-[Seu GitHub](https://github.com/seu-usuario)
-[Seu Email](seuemail@email.com)
